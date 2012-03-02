@@ -54,7 +54,7 @@ then
     an="AuthorFirst1 AuthorLast2"
     am="author1@email.com"
 fi
-if [ "$GIT_AUTHOR_NAME" = "author2" ]
+elif [ "$GIT_AUTHOR_NAME" = "author2" ]
 then
     cn="CommitterFirst2 CommitterLast2"
     cm="committer2@email.com"
