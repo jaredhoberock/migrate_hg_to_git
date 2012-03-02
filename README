@@ -4,7 +4,7 @@ To translate author information, manually edit the script.
 
 Usage:
 
-  ./migrate_hg_to_git <url to hg repository> <url to git repository>
+  ./migrate_hg_to_git.sh <url to hg repository> <url to git repository>
 
 [1] www.theleagueofpaul.com/hg-to-git
 
